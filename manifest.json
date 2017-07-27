@@ -1,0 +1,32 @@
+{
+	"manifest_version": 2,
+
+	"name": "FILKOM Attendance Checker",
+	"description": "This extension checks FILKOM employee's attendance",
+	"version": "1.0",
+
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
+
+	"browser_action": {
+		"default_icon": "warning.png"
+	},
+
+	"background": {
+		"scripts": ["check.js"]
+	},
+
+	"permissions": [
+		"storage",
+		"notifications",
+		"http://genbank.smonagenes.ub.ac.id/utils/hadir"
+	],
+
+	"options_ui": {
+		"page": "options.html",
+		"chrome_style": true
+	}
+}
