@@ -1,4 +1,4 @@
-# FILKOMAttendanceChecker
+# FILKOM Attendance Checker
 
 ## Installation
 1. Download and extract the [zip file](https://github.com/rendicahya/FILKOMAttendanceChecker/archive/master.zip)
