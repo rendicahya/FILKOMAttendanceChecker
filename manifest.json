@@ -21,8 +21,7 @@
 
 	"permissions": [
 		"storage",
-		"notifications",
-		"http://genbank.smonagenes.ub.ac.id/utils/hadir"
+		"notifications"
 	],
 
 	"options_ui": {
