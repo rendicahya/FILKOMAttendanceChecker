@@ -43,7 +43,7 @@ var check = () => {
 
 	let random = Math.random();
 
-	xhr.open('GET', `http://repo.ptiik.ub.ac.id/hadir.php?name=${name}&r=${random}`, true);
+	xhr.open('GET', `http://repo.ptiik.ub.ac.id/hadir/hadir.php?name=${name}&r=${random}`, true);
 
 	xhr.onreadystatechange = () => {
 		if (xhr.readyState !== 4 && xhr.status !== 200) {
