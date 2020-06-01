@@ -6,3 +6,6 @@
 3. Click "Load unpacked extension..." and point to the extracted folder
 4. Enter your name in the options dialog
 5. Refresh the Extensions page
+
+## Update
+Currently not working due to fingerprint device change.
