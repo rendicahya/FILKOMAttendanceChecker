@@ -8,4 +8,4 @@
 5. Refresh the Extensions page
 
 ## Update
-Currently not working due to fingerprint device change.
+Currently not working due to new fingerprint device.
